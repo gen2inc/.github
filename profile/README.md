@@ -1,5 +1,5 @@
-## Hi there 👋
-Welcome to Gen2 Inc
+![](https://raw.githubusercontent.com/gen2inc/.github/main/images/gen%202.png)
+<p>Welcome to Gen 2 Inc, we are a team of developers who make projects!</p>
 <!--
 
 **Here are some ideas to get you started:**
