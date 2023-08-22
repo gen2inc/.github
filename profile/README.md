@@ -5,4 +5,5 @@
 <ul>
  <li><a href="https://turningfrogs.gay">turningfrogs.gay</a> <a href="https://github.com/gen2inc/turningfrogs.gay">(source)</a> - personal website</li>
   <li><a href="https://github.com/gen2inc/shinigami">shiginami</a> - anti-trans highlighting (note: was supposed to be a recreation of the shignami eyes api but now we got its own backend & a extension)</li>
+ <li><a href="https://gen2inc.github.io/catboard-web/">catboard web</a> <a href="https://github.com/gen2inc/catboard-web">(source)</a> - mrrrrr mmreaaaaaooowww mreeooowwww ^^ </li>
 </ul>
